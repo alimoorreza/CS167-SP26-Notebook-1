@@ -1,7 +1,7 @@
-# CS167-SP25-Notebook-1
+# CS167-SP26-Notebook-1
 # Notebook #1: Python, Pandas, and Pokemon!
 
-<b>Due</b>: Wednesday, February 12th, 2025
+<b>Due</b>: Wednesday, February 11th, 2026
 
 ## How this is going to work: 
 
